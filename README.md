@@ -1,11 +1,16 @@
-# Greetings
+# About Me
 
-I'm SinisterDeveloper, a programmer and a student. I'm still in High School and I will be graduating in a few months. I love making open source projects. I believe Open Source is a wonderful tool and a weapon for developers to learn from each other
+I'm a passionate programmer and a freshman at University. With a good interest in open source development, I believe in the power of collaboration and knowledge sharing that open source offers. My goal is to contribute to the developer community while continuously expanding my skills and knowledge.
 
-# Starting Out
+# Experience
 
-I started my journey by developing games on Roblox. I was interested in Roblox as it had great potential and had a lot to offer. It was all going great and fun. However due to some circumstances, I had to stop developing on Roblox. I then became interested in Javascript and NodeJS. This was a big turning point in my journey as Javascript/NodeJS became the first language which I learned proficiently. 
+My programming journey began with game development on Roblox, where I explored its vast potential. Although I eventually transitioned from Roblox, this experience ignited my passion for coding. I then focused on mastering JavaScript and Node.js, which became my first strong proficiencies.
 
-After many months of Javascript, I started learning C++ and Python, which I am currently mastering 
+Building on this foundation, I am expanding my skills to include C++ and Python, which I am currently learning. My journey is driven by curiosity and a desire to learn, create, and contribute meaningfully to the tech community.
 
-I want to continue learning and contributing; and Github is the perfect place for me. Have a great day ahead!
+# Goals
+
+I’m eager to take on new challenges and projects, leveraging GitHub as the platform to collaborate and grow. I look forward to connecting with like-minded developers and making impactful contributions to the open source world.
+
+
+Have a great day ahead!
